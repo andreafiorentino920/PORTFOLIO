@@ -1,6 +1,6 @@
-# Hello there, my name is Andrea 👋 :bald_man:
+# Ciao, benvenuto sul mio profilo, il mio nome è Andrea 👋 :bald_man:
 
-I am a Jr. Full Stack Web Developer based in Pistoia, Italy, with a vibrant passion for technology :computer:, music :musical_note: and coffee :coffee:.<br />
+Sono un Jr. Full Stack Web Developer, attualmente con sede a Lecce, con l'obiety with a vibrant passion for technology :computer:, music :musical_note: and coffee :coffee:.<br />
 Please be my guest and have a look around!
 
 ###
@@ -9,11 +9,7 @@ Please be my guest and have a look around!
 ###
 You can get in touch with me on LinkedIn or via e-mail: 
 ###
-<!-- <a href="https://www.linkedin.com/in/simone-morieri/"><img src="https://i.imgur.com/PhMEbqz.png" align="left" width="32"></a>  -->
-<!-- <a href="mailto:elmurie@gmail.com"><img src="https://i.imgur.com/0klTwCT.png" align="left" width="32" ></a><br /> -->
-<br />
-<br />
-<!-- I am very proud of my latest Weather App project, so please make sure you <a href="https://github.com/elmurie/weatherapp">check it out </a>! -->
+
 
 Don't forget to be awesome :fire::fire::fire:
 

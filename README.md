@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Hello there, my name is Andrea 👋 :bald_man:
 
-You can use the [editor on GitHub](https://github.com/andreafiorentino920/PORTFOLIO/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Jr. Full Stack Web Developer based in Pistoia, Italy, with a vibrant passion for technology :computer:, music :musical_note: and coffee :coffee:.<br />
+Please be my guest and have a look around!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreafiorentino920&langs_count=8&layout=compact)](https://github.com/andreafiorentino920/github-readme-stats)
 
-### Markdown
+###
+You can get in touch with me on LinkedIn or via e-mail: 
+###
+<!-- <a href="https://www.linkedin.com/in/simone-morieri/"><img src="https://i.imgur.com/PhMEbqz.png" align="left" width="32"></a>  -->
+<!-- <a href="mailto:elmurie@gmail.com"><img src="https://i.imgur.com/0klTwCT.png" align="left" width="32" ></a><br /> -->
+<br />
+<br />
+<!-- I am very proud of my latest Weather App project, so please make sure you <a href="https://github.com/elmurie/weatherapp">check it out </a>! -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Don't forget to be awesome :fire::fire::fire:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreafiorentino920/PORTFOLIO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

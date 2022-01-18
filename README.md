@@ -1,4 +1,4 @@
-# Ciao, benvenuto sul mio profilo, il mio nome è Andrea 👋 :bald_man:
+# Ciao, benvenuto sul mio profilo, il mio nome è Andrea 👋
 
 Sono un Jr. Full Stack Web Developer, attualmente con sede a Lecce, con l'obiety with a vibrant passion for technology :computer:, music :musical_note: and coffee :coffee:.<br />
 Please be my guest and have a look around!

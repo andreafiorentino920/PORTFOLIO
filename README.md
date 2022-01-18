@@ -6,10 +6,7 @@ Sono un Jr. Full Stack Web Developer, attualmente con sede a Lecce, ma che ha vo
 
 ###
 Puoi metterti in contatto con me su LinkedIn o via e-mail: 
+###
 <a href="https://www.linkedin.com/in/fiorentino-andrea/"><img src="https://i.imgur.com/PhMEbqz.png" align="left" width="32"></a> 
 <a href="mailto:andreafiorentino920@gmail.com"><img src="https://i.imgur.com/0klTwCT.png" align="left" width="32" ></a><br />
-###
-
-
-Don't forget to be awesome :fire::fire::fire:
 

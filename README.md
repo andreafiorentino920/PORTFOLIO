@@ -1,8 +1,6 @@
 # Ciao, benvenuto sul mio profilo, il mio nome è Andrea 👋
 
-Sono un Jr. Full Stack Web Developer, attualmente con sede a Lecce, con l'obiety with a vibrant passion for technology :computer:, music :musical_note: and coffee :coffee:.<br />
-Please be my guest and have a look around!
-
+Sono un Jr. Full Stack Web Developer, attualmente con sede a Lecce, ma che ha voglia di cambiare, in cerca di opportunità lavorative in quel di Milano.
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreafiorentino920&langs_count=8&layout=compact)](https://github.com/andreafiorentino920/github-readme-stats)
 
